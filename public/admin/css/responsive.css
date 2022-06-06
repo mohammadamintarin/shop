@@ -1,0 +1,8 @@
+@media only screen and (max-width: 375px) {
+  .h-m{
+    display: none!important;
+  }
+  .row .text-right, .row .text-left{
+    font-size: 13px
+  }
+}

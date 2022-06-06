@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="384px" viewBox="0 0 1024 384" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="13" y="0" width="1044" height="383"/>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1044" height="383" fill="white">
+            <use xlink:href="#path-1"/>
+        </mask>
+        <rect id="path-3" x="15.399672" y="219.707235" width="74.2002198" height="74.2002198"/>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="74.2002198" height="74.2002198" fill="white">
+            <use xlink:href="#path-3"/>
+        </mask>
+        <polygon id="path-5" points="458.799215 227.407647 469.167175 245.655257 448.431255 245.655257"/>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"/>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"/>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"/>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(0.000000, -4592.000000)">
+            <g id="footer" transform="translate(-33.000000, 4592.000000)">
+                <g id="Group-5">
+                    <use id="Rectangle-6" stroke="#ECEBF7" mask="url(#mask-2)" stroke-width="2" fill="#F6F7FC" xlink:href="#path-1"/>
+                    <use id="Rectangle-7" stroke="#7E57C2" mask="url(#mask-4)" stroke-width="32" opacity="0.060885417" transform="translate(52.499782, 256.807345) rotate(37.000000) translate(-52.499782, -256.807345) " xlink:href="#path-3"/>
+                    <polyline id="Path-2" stroke="#B388FF" stroke-width="3" opacity="0.049999997" transform="translate(343.975670, 125.017357) rotate(-82.000000) translate(-343.975670, -125.017357) " points="350.356313 112.810908 350.356313 123.352841 342.588573 121.688325 345.362766 129.456065 337.595026 129.456065 338.704704 137.223805"/>
+                    <g id="Triangle" opacity="0.0600000024" transform="translate(458.799215, 236.531452) rotate(39.000000) translate(-458.799215, -236.531452) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"/>
+                        <use stroke="#CE93D8" stroke-width="5" xlink:href="#path-5"/>
+                    </g>
+                    <circle id="Oval-3" stroke="#EEEEF6" stroke-width="70" cx="1057" cy="301" r="109"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
